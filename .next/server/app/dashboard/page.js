@@ -1,0 +1,17 @@
+const CHUNK_PUBLIC_PATH = "server/app/dashboard/page.js";
+const runtime = require("../../chunks/ssr/[turbopack]_runtime.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_next_dist_66bdff._.js");
+runtime.loadChunk("server/chunks/ssr/[root of the server]__ea5163._.js");
+runtime.loadChunk("server/chunks/ssr/app_db13a2._.js");
+runtime.loadChunk("server/chunks/ssr/_1c1ab3._.js");
+runtime.loadChunk("server/chunks/ssr/app_globals_73c377.css");
+runtime.loadChunk("server/chunks/ssr/node_modules_16929d._.js");
+runtime.loadChunk("server/chunks/ssr/app_dashboard_layout_dd43e6.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_react-icons_pi_index_mjs_7022dd._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_react-icons_io_index_mjs_c24c6e._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_react-icons_ri_index_mjs_851175._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_react-icons_lib_b806b5._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_next_dist_esm_build_templates_app-page_ec5c48.js");
+runtime.loadChunk("server/chunks/ssr/_6cbce2._.js");
+runtime.getOrInstantiateRuntimeModule("[project]/.next-internal/server/app/dashboard/page/actions.js [app-rsc] (ecmascript)", CHUNK_PUBLIC_PATH);
+module.exports = runtime.getOrInstantiateRuntimeModule("[project]/node_modules/next/dist/esm/build/templates/app-page.js?page=/dashboard/page { METADATA_0 => \"[project]/app/favicon.ico.mjs { IMAGE => \\\"[project]/app/favicon.ico [app-rsc] (static)\\\" } [app-rsc] (structured image object, ecmascript, Next.js server component)\", MODULE_1 => \"[project]/app/layout.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_2 => \"[project]/node_modules/next/dist/client/components/not-found-error.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_3 => \"[project]/app/dashboard/layout.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_4 => \"[project]/app/dashboard/page.js [app-rsc] (ecmascript, Next.js server component)\" } [app-rsc] (ecmascript)", CHUNK_PUBLIC_PATH).exports;
