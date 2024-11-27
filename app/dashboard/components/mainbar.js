@@ -1,6 +1,9 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import {MdKeyboardArrowLeft, MdOutlineNotificationsNone,} from "react-icons/md";
+import {
+  MdKeyboardArrowLeft,
+  MdOutlineNotificationsNone,
+} from "react-icons/md";
 import { GoDotFill } from "react-icons/go";
 import { CiSearch } from "react-icons/ci";
 
@@ -64,7 +67,7 @@ export default function Mainbar() {
         <input
           type="range"
           className="bg-red-800 h-0.5 rounded-lg appearance-none cursor-pointer"
-          />
+        />
         <select className="text-white bg-black rounded-md border border-gray-500 px-4 py-2">
           <option value="Popular">Popular</option>
           <option value="Action">Action</option>
@@ -73,54 +76,25 @@ export default function Mainbar() {
           </option>
         </select>
       </div>
-      <div>
-        {/* <ul className="flex justify-evenly p-4 gap-4">
-          <li className="bg-black rounded-t-3xl">
-            <img src="/Avatar.jpeg" alt="" className="rounded-t-3xl" />
-           <div className="flex flex-col items-center">
-           <h3>Avatar</h3>
-           <span>The way of water</span>
-           </div>
-          </li>
-          <li className="bg-black rounded-t-3xl">
-            <img src="/gaurdians.jpeg" alt="" className="rounded-t-3xl" />
-            <div className="flex flex-col items-center">
-           <h3>Gaurdian</h3>
-           <span>The volume 3</span>
-           </div>
-          </li>
-          <li className="bg-black rounded-t-3xl">
-            <img src="/lordpower.jpeg" alt="" className="rounded-t-3xl"/>
-            <div className="flex flex-col items-center">
-           <h3>Lord of the Rings</h3>
-           <span>The rings of power</span>
-           </div>
-          </li>
-          <li className="bg-black rounded-t-3xl"> 
-            <img src="/blackpanther.jpeg" alt="" className="rounded-t-3xl rounded-b-3xl" />
-            <div className="flex flex-col items-center">
-           <h3>Black Panther</h3>
-           <span>Wakanda forever</span>
-           </div>
-          </li>
-        </ul> */}
-        <ul className="flex flex-row justify-evenly gap-10">
-          {records.map((list, index) => (
-            <li
-              className="border border-white"
-              key={index}
-              style={{
-                backgroundImage: `url(${list.posterURL})`,
-                backgroundSize: 'cover', backgroundRepeat: "no-repeat",
-                maxWidth: '200px'
-              }}
-            >
-              {/* <img src={list.posterURL} alt="can't load"/> */}
-              {list.id} <span>Title:</span> {list.title}
-            </li>
-          ))}
-        </ul>
-      </div>
+      <div className="p-4">
+  <ul className="flex flex-wrap justify-center gap-6">
+    {records.map((list, index) => (
+      <li
+        key={index}
+        className="flex flex-col border border-white h-96 w-full sm:w-72 md:w-80 lg:w-96 xl:w-96 rounded-lg overflow-hidden shadow-lg"
+        style={{
+          backgroundImage: `url(${list.posterURL})`,
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+        }}
+      >
+        <span className="p-4 bg-black bg-opacity-50 text-white rounded-b-lg">{list.title}</span>
+      </li>
+    ))}
+  </ul>
+</div>
+
+
     </div>
   );
 }

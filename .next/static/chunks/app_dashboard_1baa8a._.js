@@ -47,12 +47,12 @@ function Mainbar() {
                             "aria-label": "Go Back"
                         }, void 0, false, {
                             fileName: "[project]/app/dashboard/components/mainbar.js",
-                            lineNumber: 22,
+                            lineNumber: 25,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/app/dashboard/components/mainbar.js",
-                        lineNumber: 21,
+                        lineNumber: 24,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -65,12 +65,12 @@ function Mainbar() {
                                         className: "absolute inset-y-0 left-3 flex items-center text-gray-500",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$ci$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["CiSearch"], {}, void 0, false, {
                                             fileName: "[project]/app/dashboard/components/mainbar.js",
-                                            lineNumber: 27,
+                                            lineNumber: 30,
                                             columnNumber: 15
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/app/dashboard/components/mainbar.js",
-                                        lineNumber: 26,
+                                        lineNumber: 29,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -79,13 +79,13 @@ function Mainbar() {
                                         placeholder: "Search"
                                     }, void 0, false, {
                                         fileName: "[project]/app/dashboard/components/mainbar.js",
-                                        lineNumber: 29,
+                                        lineNumber: 32,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/dashboard/components/mainbar.js",
-                                lineNumber: 25,
+                                lineNumber: 28,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -95,7 +95,7 @@ function Mainbar() {
                                         size: 25
                                     }, void 0, false, {
                                         fileName: "[project]/app/dashboard/components/mainbar.js",
-                                        lineNumber: 36,
+                                        lineNumber: 39,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$go$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["GoDotFill"], {
@@ -103,13 +103,13 @@ function Mainbar() {
                                         className: "absolute top-0 right-0 text-red-500"
                                     }, void 0, false, {
                                         fileName: "[project]/app/dashboard/components/mainbar.js",
-                                        lineNumber: 37,
+                                        lineNumber: 40,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/dashboard/components/mainbar.js",
-                                lineNumber: 35,
+                                lineNumber: 38,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -120,24 +120,24 @@ function Mainbar() {
                                     className: "w-10 h-10 object-cover"
                                 }, void 0, false, {
                                     fileName: "[project]/app/dashboard/components/mainbar.js",
-                                    lineNumber: 44,
+                                    lineNumber: 47,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/app/dashboard/components/mainbar.js",
-                                lineNumber: 43,
+                                lineNumber: 46,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/dashboard/components/mainbar.js",
-                        lineNumber: 24,
+                        lineNumber: 27,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/dashboard/components/mainbar.js",
-                lineNumber: 20,
+                lineNumber: 23,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -150,12 +150,12 @@ function Mainbar() {
                     children: "Watch"
                 }, void 0, false, {
                     fileName: "[project]/app/dashboard/components/mainbar.js",
-                    lineNumber: 58,
+                    lineNumber: 61,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/dashboard/components/mainbar.js",
-                lineNumber: 54,
+                lineNumber: 57,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -166,7 +166,7 @@ function Mainbar() {
                         children: "Continue Watching"
                     }, void 0, false, {
                         fileName: "[project]/app/dashboard/components/mainbar.js",
-                        lineNumber: 63,
+                        lineNumber: 66,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -174,7 +174,7 @@ function Mainbar() {
                         className: "bg-red-800 h-0.5 rounded-lg appearance-none cursor-pointer"
                     }, void 0, false, {
                         fileName: "[project]/app/dashboard/components/mainbar.js",
-                        lineNumber: 64,
+                        lineNumber: 67,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
@@ -185,7 +185,7 @@ function Mainbar() {
                                 children: "Popular"
                             }, void 0, false, {
                                 fileName: "[project]/app/dashboard/components/mainbar.js",
-                                lineNumber: 69,
+                                lineNumber: 72,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -193,7 +193,7 @@ function Mainbar() {
                                 children: "Action"
                             }, void 0, false, {
                                 fileName: "[project]/app/dashboard/components/mainbar.js",
-                                lineNumber: 70,
+                                lineNumber: 73,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -202,64 +202,59 @@ function Mainbar() {
                                 children: "Comedy"
                             }, void 0, false, {
                                 fileName: "[project]/app/dashboard/components/mainbar.js",
-                                lineNumber: 71,
+                                lineNumber: 74,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/dashboard/components/mainbar.js",
-                        lineNumber: 68,
+                        lineNumber: 71,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/dashboard/components/mainbar.js",
-                lineNumber: 62,
+                lineNumber: 65,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "p-4",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                    className: "flex flex-row justify-evenly gap-10",
+                    className: "flex flex-wrap justify-center gap-6",
                     children: records.map((list, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                            className: "border border-white",
+                            className: "flex flex-col border border-white h-96 w-full sm:w-72 md:w-80 lg:w-96 xl:w-96 rounded-lg overflow-hidden shadow-lg",
                             style: {
                                 backgroundImage: `url(${list.posterURL})`,
-                                backgroundSize: 'cover',
-                                backgroundRepeat: "no-repeat",
-                                maxWidth: '200px'
+                                backgroundSize: "cover",
+                                backgroundPosition: "center"
                             },
-                            children: [
-                                list.id,
-                                " ",
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    children: "Title:"
-                                }, void 0, false, {
-                                    fileName: "[project]/app/dashboard/components/mainbar.js",
-                                    lineNumber: 119,
-                                    columnNumber: 25
-                                }, this),
-                                " ",
-                                list.title
-                            ]
-                        }, index, true, {
+                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                className: "p-4 bg-black bg-opacity-50 text-white rounded-b-lg",
+                                children: list.title
+                            }, void 0, false, {
+                                fileName: "[project]/app/dashboard/components/mainbar.js",
+                                lineNumber: 91,
+                                columnNumber: 9
+                            }, this)
+                        }, index, false, {
                             fileName: "[project]/app/dashboard/components/mainbar.js",
-                            lineNumber: 109,
-                            columnNumber: 13
+                            lineNumber: 82,
+                            columnNumber: 7
                         }, this))
                 }, void 0, false, {
                     fileName: "[project]/app/dashboard/components/mainbar.js",
-                    lineNumber: 107,
-                    columnNumber: 9
+                    lineNumber: 80,
+                    columnNumber: 3
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/dashboard/components/mainbar.js",
-                lineNumber: 76,
+                lineNumber: 79,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/app/dashboard/components/mainbar.js",
-        lineNumber: 18,
+        lineNumber: 21,
         columnNumber: 5
     }, this);
 }
