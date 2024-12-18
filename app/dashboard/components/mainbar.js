@@ -77,24 +77,24 @@ export default function Mainbar() {
         </select>
       </div>
       <div className="p-4">
-  <ul className="flex flex-wrap justify-center gap-6">
-    {records.map((list, index) => (
-      <li
-        key={index}
-        className="flex flex-col border border-white h-96 w-full sm:w-72 md:w-80 lg:w-96 xl:w-96 rounded-lg overflow-hidden shadow-lg"
-        style={{
-          backgroundImage: `url(${list.posterURL})`,
-          backgroundSize: "cover",
-          backgroundPosition: "center",
-        }}
-      >
-        <span className="p-4 bg-black bg-opacity-50 text-white rounded-b-lg">{list.title}</span>
-      </li>
-    ))}
-  </ul>
-</div>
-
-
+        <ul className="flex flex-wrap justify-center gap-6">
+          {records.map((list, index) => (
+            <li
+              key={index}
+              className="flex flex-col border border-white h-96 w-full sm:w-72 md:w-80 lg:w-96 xl:w-96 rounded-lg overflow-hidden shadow-lg"
+              style={{
+                backgroundImage: `url(${list.posterURL})`,
+                backgroundSize: "cover",
+                backgroundPosition: "center",
+              }}
+            >
+              <span className="p-4 bg-black bg-opacity-50 text-white rounded-b-lg">
+                {list.title}
+              </span>
+            </li>
+          ))}
+        </ul>
+      </div>
     </div>
   );
 }
